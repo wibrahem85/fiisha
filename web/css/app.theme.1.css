@@ -1,4 +1,4 @@
-﻿/*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
+/*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
 
 .fancybox-wrap,
 .fancybox-skin,
@@ -77,7 +77,7 @@
 .fancybox-close,
 .fancybox-prev span,
 .fancybox-next span {
-    background-image: url(../../images/fancybox_sprite.png);
+    background-image: url(../../images/fancybox_sprite4865.png?783d4031fe50c3d83c960911e1fbc705);
 }
 
 #fancybox-loading {
@@ -95,7 +95,7 @@
 #fancybox-loading div {
     width: 44px;
     height: 44px;
-    background: url(../../images/fancybox_loading.gif) center center no-repeat;
+    background: url(../../images/fancybox_loadingf1aa.gif?328cc0f6c78211485058d460e80f4fa8) center center no-repeat;
 }
 
 .fancybox-close {
@@ -115,7 +115,7 @@
     height: 100%;
     cursor: pointer;
     text-decoration: none;
-    background: transparent url(../../images/blank.gif);
+    background: transparent url(../../images/blank8804.gif?aea2fa668453e23c431649801e5ea548);
     /* helps IE */
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     z-index: 8040;
@@ -187,7 +187,7 @@
     overflow: hidden;
     display: none;
     z-index: 8010;
-    background: url(../../images/fancybox_overlay.png);
+    background: url(../../images/fancybox_overlaye149.png?77aeaa52715b898b73c74d68c630330e);
 }
 
 .fancybox-overlay-fixed {
@@ -270,12 +270,12 @@ only screen and (min-device-pixel-ratio: 1.5) {
     .fancybox-close,
     .fancybox-prev span,
     .fancybox-next span {
-        background-image: url(../../images/fancybox_sprite@2x.png);
+        background-image: url(../../images/fancybox_sprite%402xfd57.png?ed9970ce22242421e66ff150aa97fe5f);
         background-size: 44px 152px;
         /*The size of the normal image, half the size of the hi-res image*/
     }
     #fancybox-loading div {
-        background-image: url(../../images/fancybox_loading@2x.gif);
+        background-image: url(../../images/fancybox_loading%402x9555.gif?f92938639fa894a0e8ded1c3368abe98);
         background-size: 24px 24px;
         /*The size of the normal image, half the size of the hi-res image*/
     }
@@ -286,7 +286,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 /* Slider */
 
 .slick-loading .slick-list {
-    background: #fff url(../../images/ajax-loader.gif) center center no-repeat;
+    background: #fff url(../../images/ajax-loader20ca.gif?c5cd7f5300576ab4c88202b42f6ded62) center center no-repeat;
 }
 
 
@@ -296,8 +296,8 @@ only screen and (min-device-pixel-ratio: 1.5) {
     font-family: 'slick';
     font-weight: normal;
     font-style: normal;
-    src: url(../../fonts/slick.eot);
-    src: url(../../fonts/slick-1.eot) format('embedded-opentype'), url(../../fonts/slick.woff) format('woff'), url(../../fonts/slick.ttf) format('truetype'), url(../../fonts/slick.svg) format('svg');
+    src: url(../../fonts/slickbb7d.eot?ced611daf7709cc778da928fec876475);
+    src: url(../../fonts/slicka732.eot?ced611daf7709cc778da928fec876475?#iefix) format('embedded-opentype'), url(../../fonts/slick68b7.woff?b7c9e1e479de3b53f1e4e30ebac2403a) format('woff'), url(../../fonts/slickafcb.ttf?d41f55a78e6f49a5512878df1737e58a) format('truetype'), url(../../fonts/slicked10.svg?526d7fdf63614222d376257221e8b754#slick) format('svg');
 }
 
 
@@ -567,14 +567,14 @@ only screen and (min-device-pixel-ratio: 1.5) {
 @charset "UTF-8";
 @font-face {
     font-family: "Montserrat-Regular";
-    src: url(../../fonts/Montserrat-Regular.eot) format("embedded-opentype"), url(../../fonts/Montserrat-Regular.woff) format("woff"), url(../../fonts/Montserrat-Regular.ttf) format("truetype"), url(../../fonts/Montserrat-Regular.svg) format("svg");
+    src: url(../../fonts/Montserrat-Regulardc0c.eot?af0492c24e83e57b6b8a843d96c818af) format("embedded-opentype"), url(../../fonts/Montserrat-Regular2afc.woff?91f380f212f0ef228c7115c28d9492d0) format("woff"), url(../../fonts/Montserrat-Regularbd31.ttf?ee6539921d713482b8ccd4d0d23961bb) format("truetype"), url(../../fonts/Montserrat-Regularddab.svg?24fb280fe25940e6ca9bb542b17550f6) format("svg");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Montserrat-Bold";
-    src: url(../../fonts/Montserrat-Bold.eot) format("embedded-opentype"), url(../../fonts/Montserrat-Bold.woff) format("woff"), url(../../fonts/Montserrat-Bold.ttf) format("truetype"), url(../../fonts/Montserrat-Bold.svg) format("svg");
+    src: url(../../fonts/Montserrat-Bold9c4f.eot?d8e01c23a4c04c132a443a71dbe2220f) format("embedded-opentype"), url(../../fonts/Montserrat-Boldc3db.woff?a8db2428ec1951a9a7bb161b5341f010) format("woff"), url(../../fonts/Montserrat-Bold6bcc.ttf?ade91f473255991f410f61857696434b) format("truetype"), url(../../fonts/Montserrat-Boldbe25.svg?6722f2ea68898f313dd9e4eb3458467b) format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -590,8 +590,8 @@ only screen and (min-device-pixel-ratio: 1.5) {
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.eot);
-    src: url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.eot) format("embedded-opentype"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2) format("woff2"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff) format("woff"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.ttf) format("truetype"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.svg) format("svg");
+    src: url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-brands-400e04f.eot?c1868c9545d2de1cf8488f1dadd8c9d0);
+    src: url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-brands-400e04f.eot?c1868c9545d2de1cf8488f1dadd8c9d0) format("embedded-opentype"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-brands-400c818.woff2?a06da7f0950f9dd366fc9db9d56d618a) format("woff2"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-brands-400da43.woff?ec3cfddedb8bebd2d7a3fdf511f7c1cc) format("woff"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-brands-4007671.ttf?13685372945d816a2b474fc082fd9aaa) format("truetype"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-brands-4002e48.svg?0cb5a5c0d251c109458c85c6afeffbaa) format("svg");
 }
 
 .fab {
@@ -6613,8 +6613,8 @@ readers do not read off random characters that represent icons */
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.eot);
-    src: url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.eot) format("embedded-opentype"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff2) format("woff2"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff) format("woff"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.ttf) format("truetype"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.svg) format("svg");
+    src: url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-regular-400cca8.eot?261d666b0147c6c5cda07265f98b8f8c);
+    src: url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-regular-400cca8.eot?261d666b0147c6c5cda07265f98b8f8c) format("embedded-opentype"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-regular-4004319.woff2?c20b5b7362d8d7bb7eddf94344ace33e) format("woff2"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-regular-400b0aa.woff?f89ea91ecd1ca2db7e09baa2c4b156d1) format("woff"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-regular-400ec58.ttf?db78b9359171f24936b16d84f63af378) format("truetype"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-regular-4005b31.svg?89ffa3aba80d30ee0a9371b25c968bbb) format("svg");
 }
 
 .far {
@@ -6633,8 +6633,8 @@ readers do not read off random characters that represent icons */
     font-style: normal;
     font-weight: 900;
     font-display: block;
-    src: url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.eot);
-    src: url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.eot) format("embedded-opentype"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2) format("woff2"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff) format("woff"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.ttf) format("truetype"), url(../../fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.svg) format("svg");
+    src: url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-solid-90027c4.eot?a0369ea57eb6d3843d6474c035111f29);
+    src: url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-solid-90027c4.eot?a0369ea57eb6d3843d6474c035111f29) format("embedded-opentype"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-solid-900b99c.woff2?b15db15f746f29ffa02638cb455b8ec0) format("woff2"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-solid-9003d30.woff?bea989e82b07e9687c26fc58a4805021) format("woff"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-solid-9008790.ttf?1ab236ed440ee51810c56bd16628aef0) format("truetype"), url(../../fonts/vendor/%40fortawesome/fontawesome-free/webfa-solid-900a47a.svg?ec763292e583294612f124c0b0def500) format("svg");
 }
 
 .fa,
@@ -20100,121 +20100,121 @@ nav[aria-label=breadcrumb] .breadcrumb .active::before {
 .switecher-new .swicher-color ul li a #sprite1 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) 0 0;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) 0 0;
 }
 
 .switecher-new .swicher-color ul li a #sprite2 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -30px 0;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -30px 0;
 }
 
 .switecher-new .swicher-color ul li a #sprite3 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -60px 0;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -60px 0;
 }
 
 .switecher-new .swicher-color ul li a #sprite4 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -90px 0;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -90px 0;
 }
 
 .switecher-new .swicher-color ul li a #sprite5 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -120px 0px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -120px 0px;
 }
 
 .switecher-new .swicher-color ul li a #sprite6 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -150px 0px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -150px 0px;
 }
 
 .switecher-new .swicher-color ul li a #sprite7 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -180px 0px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -180px 0px;
 }
 
 .switecher-new .swicher-color ul li a #sprite8 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) 0px -31px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) 0px -31px;
 }
 
 .switecher-new .swicher-color ul li a #sprite9 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -30px -31px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -30px -31px;
 }
 
 .switecher-new .swicher-color ul li a #sprite10 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -60px -31px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -60px -31px;
 }
 
 .switecher-new .swicher-color ul li a #sprite11 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -90px -31px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -90px -31px;
 }
 
 .switecher-new .swicher-color ul li a #sprite12 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -120px -31px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -120px -31px;
 }
 
 .switecher-new .swicher-color ul li a #sprite13 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -150px -31px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -150px -31px;
 }
 
 .switecher-new .swicher-color ul li a #sprite14 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -180px -31px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -180px -31px;
 }
 
 .switecher-new .swicher-color ul li a #sprite15 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) 0px -61px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) 0px -61px;
 }
 
 .switecher-new .swicher-color ul li a #sprite16 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -30px -61px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -30px -61px;
 }
 
 .switecher-new .swicher-color ul li a #sprite17 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -60px -61px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -60px -61px;
 }
 
 .switecher-new .swicher-color ul li a #sprite18 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -90px -61px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -90px -61px;
 }
 
 .switecher-new .swicher-color ul li a #sprite19 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -120px -61px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -120px -61px;
 }
 
 .switecher-new .swicher-color ul li a #sprite20 {
     width: 20px;
     height: 20px;
-    background: url(../../images/colors.png) -150px -61px;
+    background: url(../../images/colors2256.png?8f81e1436b929fb487668ec2d97ada26) -150px -61px;
 }
 
 .switecher-new .swicher-color ul li.active a {
@@ -38226,14 +38226,14 @@ a.carousel-control-next.btn-secondary.swipe-to-top:focus {
 
 @font-face {
     font-family: "Montserrat-Regular";
-    src: url(../../fonts/Montserrat-Regular.eot) format("embedded-opentype"), url(../../fonts/Montserrat-Regular.woff) format("woff"), url(../../fonts/Montserrat-Regular.ttf) format("truetype"), url(../../fonts/Montserrat-Regular.svg) format("svg");
+    src: url(../../fonts/Montserrat-Regulardc0c.eot?af0492c24e83e57b6b8a843d96c818af) format("embedded-opentype"), url(../../fonts/Montserrat-Regular2afc.woff?91f380f212f0ef228c7115c28d9492d0) format("woff"), url(../../fonts/Montserrat-Regularbd31.ttf?ee6539921d713482b8ccd4d0d23961bb) format("truetype"), url(../../fonts/Montserrat-Regularddab.svg?24fb280fe25940e6ca9bb542b17550f6) format("svg");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Montserrat-Bold";
-    src: url(../../fonts/Montserrat-Bold.eot) format("embedded-opentype"), url(../../fonts/Montserrat-Bold.woff) format("woff"), url(../../fonts/Montserrat-Bold.ttf) format("truetype"), url(../../fonts/Montserrat-Bold.svg) format("svg");
+    src: url(../../fonts/Montserrat-Bold9c4f.eot?d8e01c23a4c04c132a443a71dbe2220f) format("embedded-opentype"), url(../../fonts/Montserrat-Boldc3db.woff?a8db2428ec1951a9a7bb161b5341f010) format("woff"), url(../../fonts/Montserrat-Bold6bcc.ttf?ade91f473255991f410f61857696434b) format("truetype"), url(../../fonts/Montserrat-Boldbe25.svg?6722f2ea68898f313dd9e4eb3458467b) format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -39495,14 +39495,14 @@ a.carousel-control-next.btn-secondary.swipe-to-top:focus {
 
 @font-face {
     font-family: "Montserrat-Regular";
-    src: url(../../fonts/Montserrat-Regular.eot) format("embedded-opentype"), url(../../fonts/Montserrat-Regular.woff) format("woff"), url(../../fonts/Montserrat-Regular.ttf) format("truetype"), url(../../fonts/Montserrat-Regular.svg) format("svg");
+    src: url(../../fonts/Montserrat-Regulardc0c.eot?af0492c24e83e57b6b8a843d96c818af) format("embedded-opentype"), url(../../fonts/Montserrat-Regular2afc.woff?91f380f212f0ef228c7115c28d9492d0) format("woff"), url(../../fonts/Montserrat-Regularbd31.ttf?ee6539921d713482b8ccd4d0d23961bb) format("truetype"), url(../../fonts/Montserrat-Regularddab.svg?24fb280fe25940e6ca9bb542b17550f6) format("svg");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Montserrat-Bold";
-    src: url(../../fonts/Montserrat-Bold.eot) format("embedded-opentype"), url(../../fonts/Montserrat-Bold.woff) format("woff"), url(../../fonts/Montserrat-Bold.ttf) format("truetype"), url(../../fonts/Montserrat-Bold.svg) format("svg");
+    src: url(../../fonts/Montserrat-Bold9c4f.eot?d8e01c23a4c04c132a443a71dbe2220f) format("embedded-opentype"), url(../../fonts/Montserrat-Boldc3db.woff?a8db2428ec1951a9a7bb161b5341f010) format("woff"), url(../../fonts/Montserrat-Bold6bcc.ttf?ade91f473255991f410f61857696434b) format("truetype"), url(../../fonts/Montserrat-Boldbe25.svg?6722f2ea68898f313dd9e4eb3458467b) format("svg");
     font-weight: normal;
     font-style: normal;
 }
